@@ -18,3 +18,5 @@ latest_posts:
 ---
 
 I study the cognitive and computational basis of curiosity and memory. Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. Currently finishing my PhD in India.
+
+<br><br>
