@@ -12,12 +12,15 @@ pagination:
   sort_field: date
   sort_reverse: true
   trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
-    <style>
+    before: 1
+    after: 3
+---
+
+<style>
   .header-bar h1 { font-family: Georgia, 'Times New Roman', serif; }
 </style>
-    
+
+<div class="post">  
 ---
 
 <div class="post">
