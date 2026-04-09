@@ -17,7 +17,7 @@ latest_posts:
   enabled: false
 ---
 
-<img src="/assets/img/about_name.svg" alt="Prerna Radhakrishna" style="width:100%; max-width:300px; display:block; margin-bottom: 1rem;">
+<img src="/assets/img/about_name.svg" alt="Prerna Radhakrishna" style="width:80%; max-width:300px; display:block; margin-bottom: 1rem;">
 
 <img src="/assets/img/about_typo.svg" alt="Why do we remember what we want to know?" style="width:100%; display:block; margin-bottom: 2rem;">
 
