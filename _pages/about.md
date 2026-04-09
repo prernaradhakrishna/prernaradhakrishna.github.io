@@ -17,9 +17,9 @@ latest_posts:
   enabled: false
 ---
 
-<img src="/assets/img/about_name.svg" alt="Prerna Radhakrishna" style="width:100%; margin-bottom: 1rem;">
+<img src="/assets/img/about_name.svg" alt="Prerna Radhakrishna" style="width:100%; max-width:400px; display:block; margin-bottom: 1rem;">
 
-<img src="/assets/img/about_typo.svg" alt="Why do we remember what we want to know?" style="width:100%; margin-bottom: 2rem;">
+<img src="/assets/img/about_typo.svg" alt="Why do we remember what we want to know?" style="width:100%; display:block; margin-bottom: 2rem;">
 
 I study the cognitive and computational basis of curiosity and memory. Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. Currently finishing my PhD in India.
 
