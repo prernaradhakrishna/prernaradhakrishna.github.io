@@ -8,7 +8,8 @@ middle_name:
 last_name: Radhakrishna
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > I study the cognitive and computational basis of curiosity and memory. Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. Currently finishing my PhD in India.
+description: > 
+  I study the cognitive and computational basis of curiosity and memory. Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. Currently finishing my PhD in India.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
