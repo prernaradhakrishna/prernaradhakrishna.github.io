@@ -7,13 +7,12 @@ nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+---
 <style>
   .header-bar h1 { font-family: Georgia, 'Times New Roman', serif; }
 </style>
 
 <div class="post">
----
-
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
