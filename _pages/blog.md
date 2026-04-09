@@ -21,7 +21,7 @@ pagination:
 </style>
 
 <div class="post">  
----
+
 
 <div class="post">
 
