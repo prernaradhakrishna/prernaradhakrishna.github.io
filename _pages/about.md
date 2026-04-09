@@ -3,6 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle:
+  PRERNA RADHAKRISHNA
+  PhD Scholar
 
 profile:
   align: right
@@ -17,4 +19,6 @@ latest_posts:
   enabled: false
 ---
 
-I study the cognitive and computational basis of curiosity and memory. Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. Currently finishing my PhD in India.
+I study the cognitive and computational basis of curiosity and memory. 
+Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. 
+Currently finishing my PhD in India.
