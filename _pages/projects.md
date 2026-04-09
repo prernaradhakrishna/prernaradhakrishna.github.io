@@ -2,11 +2,16 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of my projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+<style>
+  .header-bar h1 { font-family: Georgia, 'Times New Roman', serif; }
+</style>
+
+<div class="post">
 ---
 
 <!-- pages/projects.md -->
