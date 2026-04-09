@@ -23,4 +23,4 @@ latest_posts:
 
 I study the cognitive and computational basis of curiosity and memory. Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. Currently finishing my PhD in India.
 
-<span style="font-family: Georgia, 'Times New Roman', serif; font-size: 18px; display:block; text-align:center;">[Google Scholar](https://scholar.google.com/citations?hl=en&user=HhU3B78AAAAJ) · [ORCID](https://orcid.org/0009-0001-0669-2461) · [OSF](https://osf.io/u6nra/)</span>
+<span style="font-family: Georgia, 'Times New Roman', serif; font-size: 18px; display:block; text-align:left;">[Google Scholar](https://scholar.google.com/citations?hl=en&user=HhU3B78AAAAJ) · [ORCID](https://orcid.org/0009-0001-0669-2461) · [OSF](https://osf.io/u6nra/)</span>
