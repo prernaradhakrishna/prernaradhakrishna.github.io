@@ -3,9 +3,9 @@
     "name": "Prerna Radhakrishna",
     "label": "PhD Scholar",
     "image": "",
-    "email": "",
+    "email": "prerna.radhakrishna@res.christuniversity.in",
     "phone": "",
-    "summary": "I study the cognitive and computational basis of curiosity and memory.",
+    "summary": "I am a PhD researcher studying the cognitive and computational mechanisms underlying curiosity and its effects on memory encoding. My work addresses three interrelated questions: how curiosity — as a motivational state — selectively enhances what we remember; how uncertainty and information gaps drive information-seeking behaviour; and how curiosity modulates learning across contexts. I approach these questions using a combination of behavioural experiments, Bayesian hierarchical modelling, and formal computational frameworks, including information-theoretic and reinforcement learning accounts of curiosity. My meta-analytic work has established that state curiosity reliably benefits memory, and my ongoing experimental work examines the boundary conditions of this effect — including the role of cognitive load, confidence, and prior knowledge — using preregistered multi-session designs. I am interested in developing process-level models that can account for both the motivational and mnemonic signatures of curiosity.",
     "location": {
       "city": "Bangalore",
       "countryCode": "IN",
@@ -17,26 +17,10 @@
     {
       "institution": "Christ University",
       "location": "Bangalore, India",
-      "area": "Psychological Sciences",
+      "area": "School of Psychological Sciences",
       "studyType": "PhD",
       "startDate": "2022-01-01",
       "endDate": "",
-      "courses": []
-    },
-    {
-      "institution": "",
-      "area": "Psychology",
-      "studyType": "MPhil",
-      "startDate": "2015-01-01",
-      "endDate": "2017-01-01",
-      "courses": []
-    },
-    {
-      "institution": "",
-      "area": "Psychology",
-      "studyType": "MSc",
-      "startDate": "2013-01-01",
-      "endDate": "2015-01-01",
       "courses": []
     }
   ],
@@ -55,6 +39,7 @@
       "keywords": [
         "PsychoPy",
         "R",
+        "Python",
         "brms",
         "Bayesian Modeling",
         "Meta-analysis"
@@ -80,7 +65,23 @@
       "summary": ""
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Complex statistical modeling",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": ["Bayesian inference", "hierarchical models", "model comparison"]
+    },
+    {
+      "name": "Methods development",
+      "icon": "fa-solid fa-flask",
+      "keywords": ["refining experimental paradigms", "process models", "measurement"]
+    },
+    {
+      "name": "Graphic design and illustration",
+      "icon": "fa-solid fa-pen-nib",
+      "keywords": ["visual communication of academic ideas", "scientific illustration"]
+    }
+  ]
   "references": [],
   "projects": []
 }
