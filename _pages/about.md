@@ -41,7 +41,7 @@ latest_posts:
   <line class="line" x1="0" y1="318" x2="680" y2="318"/>
 </svg>
 
-I study the cognitive and computational basis of curiosity and memory. Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. Currently finishing my PhD in India.
+I study the cognitive and computational basis of curiosity and memory. Most of my time goes into running experiments, wrangling Bayesian models, and occasionally arguing with my own data. Currently finishing my PhD in India. This site is where I keep notes on things I'm thinking about, write-ups of analyses I don't want to lose, and occasional longer pieces on research.
 
 <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 18px; text-align: center;">
 <a href="https://scholar.google.com/citations?hl=en&user=HhU3B78AAAAJ">Google Scholar</a> · <a href="https://orcid.org/0009-0001-0669-2461">ORCID</a> · <a href="https://osf.io/u6nra/">OSF</a>
