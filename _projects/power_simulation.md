@@ -3,7 +3,7 @@ layout: page
 title: A Priori Power Simulation
 description: Power simulation for the information load experiment
 importance: 1
-category: research
+category: work
 ---
 A priori power analysis for "Curiosity And Memory Under Cognitive Load: A Test Of Resource Boundaries". Simulation-based power analysis was conducted for H1 and H7. Full preregistration including design parameters and model specification available at OSF (currently embargoed, will be publicly accessible upon publication).
 
